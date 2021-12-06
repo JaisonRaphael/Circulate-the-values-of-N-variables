@@ -27,7 +27,8 @@ def circulate():
  print("After circulating the values are:",l[n:]+l[:n])
 ~~~
 ## Output:
-![github logo](screenshoty.png)
+![Screenshoty](https://user-images.githubusercontent.com/94165957/144794742-b9888c57-1586-411a-b09c-94e0931f2c64.png)
+
 
 ## Result:
 thus the program is solved using python programming
